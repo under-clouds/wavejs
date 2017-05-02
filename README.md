@@ -1,4 +1,4 @@
-#wave.js
+# wave.js
 
 jQuery 仿md涟漪效果
 
